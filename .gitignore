@@ -4,3 +4,4 @@ vendor/
 zf-mkdoc-theme/
 /test/TestAsset/.cache/
 phpunit.xml
+.idea
